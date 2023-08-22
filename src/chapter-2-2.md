@@ -1,5 +1,4 @@
-The History and Evolution of Fitness Coaching and Health Tracking
-================================================================================================================================
+
 
 In this chapter, we will explore the history and evolution of fitness coaching and health tracking.
 

@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 In this chapter, we will introduce ChatGPT, including its features, advantages, and case studies on its use in fitness management.
 

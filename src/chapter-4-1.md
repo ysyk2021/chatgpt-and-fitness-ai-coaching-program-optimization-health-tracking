@@ -1,5 +1,4 @@
-What is ChatGPT?
-====================================================
+
 
 In this chapter, we will introduce ChatGPT and explain what it is.
 

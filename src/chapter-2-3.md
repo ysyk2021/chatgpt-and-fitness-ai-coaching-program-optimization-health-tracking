@@ -1,5 +1,4 @@
-Types of Fitness Coaching and Health Tracking Techniques Used Today
-==================================================================================================================================
+
 
 In this chapter, we will provide an overview of the types of fitness coaching and health tracking techniques used today.
 
