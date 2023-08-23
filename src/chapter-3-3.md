@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the different types of chatbots used in fitness management. The following are some examples:
 
 Personal Coaching Chatbots

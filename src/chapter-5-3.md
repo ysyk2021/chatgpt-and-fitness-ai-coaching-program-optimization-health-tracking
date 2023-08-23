@@ -1,5 +1,4 @@
 
-
 ChatGPT is a powerful AI technology that can improve fitness coaching and health tracking by leveraging data. In this chapter, we will explore how ChatGPT uses data to improve fitness coaching and health tracking.
 
 Personalized Coaching

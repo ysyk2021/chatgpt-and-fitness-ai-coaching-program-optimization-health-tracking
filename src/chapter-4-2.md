@@ -1,5 +1,4 @@
 
-
 ChatGPT is a powerful AI technology that can be used for fitness coaching and health tracking. In this chapter, we will explore the features of ChatGPT and how they can be used to improve fitness coaching and health tracking.
 
 Natural Language Processing (NLP)

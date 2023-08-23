@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the history and evolution of fitness coaching and health tracking.
 
 The History of Fitness Coaching

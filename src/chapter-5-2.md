@@ -1,5 +1,4 @@
 
-
 Personalization is key to effective fitness coaching and health tracking. Everyone has different goals, preferences, and needs when it comes to managing their fitness. To address this, ChatGPT uses a variety of personalization techniques to tailor its coaching and tracking to individual users.
 
 Goal Setting
