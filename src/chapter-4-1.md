@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT stands for Conversational Generative Pre-trained Transformer, which is an advanced Natural Language Processing (NLP) model developed by OpenAI. It uses deep learning techniques to generate human-like responses to natural language inputs.
 

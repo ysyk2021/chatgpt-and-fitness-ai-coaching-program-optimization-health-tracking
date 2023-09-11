@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Fitness Management
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To optimize the utilization of ChatGPT in fitness AI coaching program and health tracking systems, careful planning and thoughtful design are essential. This chapter explores the key considerations and strategies involved in planning and designing ChatGPT for effective fitness management.
 

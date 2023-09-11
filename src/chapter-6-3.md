@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training ChatGPT and effectively managing conversations are crucial steps in optimizing the performance of ChatGPT for fitness AI coaching programs and health tracking systems. This chapter delves into the training process of ChatGPT and provides insights into managing conversations to ensure a high-quality user experience.
 

@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT in Fitness Management
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter presents a collection of case studies that showcase the application of ChatGPT in fitness management. These case studies highlight how ChatGPT, an AI-powered assistant, has been utilized to optimize health tracking, coaching programs, and overall fitness management for individuals.
 

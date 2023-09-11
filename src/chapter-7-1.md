@@ -1,5 +1,4 @@
-Chapter: Emerging Trends in Chatbots and AI in Fitness Management
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter discusses the emerging trends in chatbots and AI in fitness management. As technology continues to advance, the potential for AI-powered assistants to revolutionize the way individuals approach fitness management is expanding rapidly.
 

@@ -1,5 +1,4 @@
-Chapter: Advantages of Using Chatbots and AI in Fitness Management
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In recent years, the use of chatbots and AI technology has revolutionized the fitness industry. From personalized coaching to real-time health tracking, the benefits of integrating AI-powered chatbots like ChatGPT into fitness management are numerous.
 

@@ -1,5 +1,4 @@
-Chapter: Evaluating ChatGPT's Performance and Effectiveness in Fitness Management
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Evaluating the performance and effectiveness of ChatGPT in fitness management is essential to ensure that AI coaching programs and health tracking systems are optimized for positive user experiences and improved health outcomes. This chapter focuses on key aspects to consider when evaluating ChatGPT's performance in the context of fitness management.
 

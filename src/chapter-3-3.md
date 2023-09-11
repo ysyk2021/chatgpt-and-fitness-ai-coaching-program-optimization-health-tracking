@@ -1,5 +1,4 @@
-Chapter: Types of Chatbots Used in Fitness Management
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the different types of chatbots used in fitness management. Chatbots have become increasingly popular in the fitness industry, offering personalized guidance, tracking capabilities, and motivation for individuals on their fitness journeys. Below are some of the common types of chatbots employed in fitness management.
 

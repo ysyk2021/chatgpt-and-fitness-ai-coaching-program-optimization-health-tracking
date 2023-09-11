@@ -1,5 +1,4 @@
-Chapter: Opportunities and Challenges in Chatbots and AI in Fitness Management
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the opportunities and challenges associated with using chatbots and AI in fitness management. While these technologies present exciting possibilities for enhancing fitness experiences, it is essential to navigate both the advantages and potential obstacles effectively.
 

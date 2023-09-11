@@ -1,5 +1,4 @@
-Chapter: Personalization Techniques Used in ChatGPT for Fitness Management
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the personalization techniques used in ChatGPT for fitness management. By leveraging advanced AI algorithms and data analysis, ChatGPT can provide tailored guidance and support that caters to an individual's unique needs, preferences, and goals.
 

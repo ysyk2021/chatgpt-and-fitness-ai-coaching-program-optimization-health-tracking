@@ -1,5 +1,4 @@
-Chapter: An Overview of Chatbots and AI in Fitness Management
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Chatbots and AI technology have revolutionized the fitness industry, providing individuals with personalized coaching, real-time health tracking, and enhanced overall fitness management. In this chapter, we will provide an overview of the role that chatbots and AI play in optimizing fitness coaching and health tracking.
 

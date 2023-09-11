@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Works in Fitness Coaching and Health Tracking
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter delves into the workings of ChatGPT in the context of fitness coaching and health tracking. ChatGPT is an AI-powered chatbot that leverages natural language processing (NLP) and machine learning to provide personalized guidance and support for individuals on their fitness journeys.
 

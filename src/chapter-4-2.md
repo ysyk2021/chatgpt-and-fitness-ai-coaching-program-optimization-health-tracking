@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, with its advanced natural language processing capabilities, offers a wide range of features that make it a powerful tool for optimizing fitness AI coaching programs and health tracking. This chapter explores the key features of ChatGPT and their significance in enhancing user experiences and outcomes.
 

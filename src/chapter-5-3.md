@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Fitness Coaching and Health Tracking
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter discusses how ChatGPT leverages data to improve fitness coaching and health tracking. As an AI-powered assistant, ChatGPT collects, processes, and analyzes large amounts of data to provide personalized guidance and support for individuals seeking to optimize their fitness and well-being.
 

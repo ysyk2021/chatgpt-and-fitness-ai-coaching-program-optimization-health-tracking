@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Fitness Coaching and Health Tracking
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While fitness coaching and health tracking programs enriched with AI technologies, such as ChatGPT, offer numerous advantages, they also face certain limitations and challenges. This chapter explores some of the key constraints and obstacles that need to be considered in order to optimize these programs effectively.
 

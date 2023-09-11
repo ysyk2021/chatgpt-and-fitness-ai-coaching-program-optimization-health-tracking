@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of Using Chatbots in Fitness Management
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter examines the challenges and limitations associated with using chatbots in fitness management. While AI-powered chatbots, such as ChatGPT, offer numerous benefits, there are certain considerations that need to be addressed to ensure their effective and responsible use.
 

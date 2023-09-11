@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Fitness Coaching and Health Tracking
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT offers numerous advantages when utilized in fitness coaching and health tracking programs. This chapter highlights the key benefits that ChatGPT brings to these domains, revolutionizing the way users interact with AI-driven systems.
 

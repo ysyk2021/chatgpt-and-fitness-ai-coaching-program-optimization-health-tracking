@@ -1,5 +1,4 @@
-Chapter: The Future of Chatbots and AI in Fitness Management
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 This chapter explores the exciting possibilities and potential future advancements of chatbots and AI in fitness management. As technology continues to evolve, chatbots are poised to play an increasingly significant role in empowering individuals to achieve their health and fitness goals.
 
